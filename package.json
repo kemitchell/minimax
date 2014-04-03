@@ -1,0 +1,28 @@
+{
+  "name": "minimax",
+  "version": "0.1.0",
+  "description": "minimax library",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha lib/tests/*.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swang/minimax"
+  },
+  "keywords": [
+    "minimax", "tictactoe"
+  ],
+  "author": "Shuan Wang",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/swang/minimax/issues"
+  },
+  "homepage": "https://github.com/swang/minimax",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "chai": "^1.9.1"
+  }
+}
