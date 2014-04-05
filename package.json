@@ -1,6 +1,6 @@
 {
   "name": "minimax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "minimax library",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "chai": "^1.9.1"
+    "mocha": "~1.18",
+    "chai": "~1.9"
   }
 }
