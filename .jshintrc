@@ -3,14 +3,19 @@
   "camelcase": true,
   "node": true,
   "strict": true,
-  "white": false,
   "smarttabs": true,
   "maxlen": 150,
-  "newcap": false,
+  "newcap": true,
   "undef": true,
   "unused": true,
   "indent": 2,
   "asi": true,
   "laxcomma": true,
-  "trailing": true
+  "trailing": true,
+  "eqeqeq": true,
+  "curly": true,
+  "quotmark": true,
+  "trailing": true,
+  "maxcomplexity": 15,
+  "expr": true
 }
